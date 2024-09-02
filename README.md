@@ -1,8 +1,8 @@
 Documentation
 How to Run the Application
 1.	Compile the Java Files:
-o	Ensure you have JDK installed on your machine. Open a terminal or command prompt and navigate to the directory where your .java files are located.
-o	Compile the Java files using the javac command:
+Ensure you have JDK installed on your machine. Open a terminal or command prompt and navigate to the directory where your .java files are located.
+Compile the Java files using the javac command:
 2.	Run the Application:
 o	After compilation, you will have class files for each of your Java classes. Run the application using the java command:
 
